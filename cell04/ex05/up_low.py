@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 inp = input()
 result = ""
 for i in inp:
